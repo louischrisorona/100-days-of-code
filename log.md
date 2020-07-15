@@ -17,12 +17,8 @@ Brushing up on my vanilla javascript skills by implementing a simple mortgage pa
 **Link(s) to work**: github.com/louischrisorona/mortgage_calculator
 
 
-### Day 1: June 27, Monday
+### Day 3: July 14th - 15th, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Went back into my mortgage calculator to add an amortization schedule. Still need a little tweaking on the algorithm.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** Need to tweak the styling for the amortization schedule table. Going back to use vanilla js is so much harder than I remember.
