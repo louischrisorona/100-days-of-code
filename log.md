@@ -36,3 +36,18 @@ We have to return the index of the given number within this unique series. Since
 I'm not familiar with all of the Set.prototype methods, but I'll figure this out.
 
 I could not figure out this algorithm for producing the series. I need to do some more research.
+
+### Day 5: July 18th - 19th, 2020
+**Today's Progress**: **Note: I'm a little behind on my 100daysofcode and have not quit! **
+
+I just learned that I was creating a table wrong using vanilla JS! No wonder my rows were elements, but the <td> was text... Table DOM elements have methods available. Make sure to double check everything available to you.
+#DOMObjects #VanillaJS
+
+
+DOM Object methods like 'createElement', but there are actually Table Object methods like 'insertRow()' or 'insertCell()'
+
+Yup you can create rows by selecting your Table then using its built-in methods and properties.
+
+This is so much easier than the way I attempted.
+
+Frameworks really hold our hands on some things.
