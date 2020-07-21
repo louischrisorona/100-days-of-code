@@ -51,3 +51,8 @@ Yup you can create rows by selecting your Table then using its built-in methods 
 This is so much easier than the way I attempted.
 
 Frameworks really hold our hands on some things.
+
+### Day 6: July 20th - 21st, 2020
+**Today's Progress**: I was able to re-create my amortize schedule in a proper table using the correct DOM methods rather than simple element creation in JavaScript. Utilizing these DOM methods in JavaScript allows for styling unlike before where the data was rendered as simple text.
+
+**bug found**: Amortization schedule array is ending before it calculates a balance at $0. Need to rework the logic to correct this. Need another pair of eyes.
